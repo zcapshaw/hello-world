@@ -1,4 +1,5 @@
 # hello-world
 Hello world
 
-Go Broncos.
+Making some practice edits.
+Learning how Github works.
