@@ -1,5 +1,3 @@
 # hello-world
-Hello world
-
-Making some practice edits.
-Learning how Github works.
+Hello world.
+My name is Zach. Product manager, aspriring Hacker, Colorado Native.
